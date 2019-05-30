@@ -1,6 +1,6 @@
 <footer class="mt-5 d-flex justify-content-center" id="contacto">
       <div class="row container">
-        <div class="col-12 logo text-center">EventosGuatoc</div>
+        <div class="col-12 logo text-center text-white">EventosGuatoc</div>
         <div class="col-xs-12 col-md-6 text-center" style="float:left">
           <p>Realizado por Yeison Calderon</p>
           <p>Con el apoyo de <img src="../public/img/ViveLab (2).png" alt="" width="60px"></p>
